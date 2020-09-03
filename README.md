@@ -31,6 +31,9 @@ A faithful remake of the judgment graphics of ultralight, a bare-bones StepMania
 **Octuple Beat Stories:**
 Based on 8 beat story.
 
+**Smashing Ultimate**
+Get ready to fight, right in the groove! Based on the damage indicator in Super Smash Bros. Ultimate.
+
 **Stella:**
 Perfect for reaching the ToP!!!!!!!!!!!!!. Based on THE iDOLM@STER Stella Stage. Includes normal (IM@S Stella Stage) and regulation (DDR/ITG) text variants.
 
