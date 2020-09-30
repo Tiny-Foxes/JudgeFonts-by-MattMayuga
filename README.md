@@ -16,7 +16,7 @@ Material and flat. Inspired by Google's Material Design.
 **MattMayuga:**
 MattMayuga's former judgment font.
 
-**GrooveNights HD**
+**GrooveNights HD:**
 A faithful remake of GrooveNights’ judgment graphics.
 
 **Mishiro Stage:**
