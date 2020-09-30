@@ -16,6 +16,9 @@ Material and flat. Inspired by Google's Material Design.
 **MattMayuga:**
 MattMayuga's former judgment font.
 
+**GrooveNights HD**
+A faithful remake of GrooveNights’ judgment graphics.
+
 **Mishiro Stage:**
 Step right into the Cinderella stage. Based on THE iDOLM@STER CINDERELLA GIRLS: Starlight Stage.
 
