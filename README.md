@@ -10,7 +10,7 @@ Dance like a pro. A judgment font with a similar style to DDR A and DDR A20.
 **Simplax**:
 Minimal yet simple. It's recommended that it's best used with a dark screen filter.
 
-**Noto**:
+**Noto**
 A judgment font with a harmonious look and feel.
 
 **Materialized**:
