@@ -1,4 +1,4 @@
-# JudgeFonts-by-MattMayuga
+﻿# JudgeFonts-by-MattMayuga
 
 This repo hosts the data files for judgment graphics made by MattMayuga, and their matching Hold Judgments.
 
@@ -31,11 +31,14 @@ Thanking you, welcoming, and dreaming as MILLIONSTARS! Based on THE iDOLM@STER M
 **315PRO STAGE**:
 For ultimate boy idols. Based on THE iDOLM@STER SideM: LIVE ON ST@GE!
 
+**RGB Chroma**:
+Illuminated with RGB lighting, for a clean, unwavering look. Inspired by the Razer Chroma RGB lighting system.
+
 **ultralight++ (ultralight Plus Plus)**:
 A faithful remake of the judgment graphics of ultralight, a bare-bones StepMania theme by freem. 
 
 **Colorfully Sekai**:
-A familiar girl with long, turquoise twintails approaches to a stage. Based on Project Sekai: Colorful Stage! feat. Hatsune Miku.
+A familiar girl with long, turquoise twintails approaches. Based on Project Sekai: Colorful Stage! feat. Hatsune Miku.
 
 **Octuple Beat Stories**:
 Based on 8 beat story.
