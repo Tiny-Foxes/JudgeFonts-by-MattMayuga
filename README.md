@@ -31,6 +31,9 @@ Thanking you, welcoming, and dreaming as MILLIONSTARS! Based on THE iDOLM@STER M
 **315PRO STAGE**:
 For ultimate boy idols. Based on THE iDOLM@STER SideM: LIVE ON ST@GE!
 
+**Side Stars**:
+A journey to become idols for a reason is just getting started.  Based on THE iDOLM@STER SideM: GROWING STARS.
+
 **RGB Chroma**:
 Illuminated with RGB lighting, for a clean, unwavering look. Inspired by the Razer Chroma RGB lighting system.
 
