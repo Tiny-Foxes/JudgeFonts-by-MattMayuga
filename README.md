@@ -34,6 +34,9 @@ For ultimate boy idols. Based on THE iDOLM@STER SideM: LIVE ON ST@GE!
 **Side Stars**:
 A journey to become idols for a reason is just getting started.  Based on THE iDOLM@STER SideM: GROWING STARS.
 
+**Luminousity**:
+Unfold a completely new story as you produce the new unit Project Luminous! Based on THE iDOLM@STER Starlit Season. Includes normal (IM@S Starlit Season) and regulation (DDR/ITG) text variants.
+
 **RGB Chroma**:
 Illuminated with RGB lighting, for a clean, unwavering look. Inspired by the Razer Chroma RGB lighting system.
 
