@@ -7,6 +7,9 @@ This repo hosts the data files for judgment graphics made by MattMayuga, and the
 **Dancing Style**:
 Dance like a pro. A judgment font with a similar style to DDR A and DDR A20.
 
+**Slick**:
+Clean and concise.
+
 **Simplax**:
 Minimal yet simple. It's recommended that it's best used with a dark screen filter.
 
