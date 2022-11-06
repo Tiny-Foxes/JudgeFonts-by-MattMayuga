@@ -58,3 +58,18 @@ Get ready to fight, right in the groove! Based on the damage indicator in Super 
 **Stella**:
 Perfect for reaching the ToP!!!!!!!!!!!!!. Based on THE iDOLM@STER Stella Stage. Includes normal (IM@S Stella Stage) and regulation (DDR/ITG) text variants.
 
+## Copyright
+
+All trademarks are the property of their respective owners, trademark fair use doctrines apply.  Except as noted, all titles, related characters and elements are trademarks of and copyright their respective owners.
+
+8 beat Story♪™& ©Chronus V Inc. and GMO Connect Inc.
+
+DanceDanceRevolution™& ©Konami Amusement
+
+THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
+
+Project Sekai: Colorful Stage! feat. Hatsune Miku/Hatsune Miku: Colorful Stage!™& ©SEGA, Colorful Palette Inc., Crypton Future Media, INC., and Piapro.
+
+Razer Chroma™& ©Razer Inc.
+
+Super Smash Bros. Ultimate™& ©Nintendo.
