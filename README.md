@@ -47,7 +47,7 @@ Illuminated with RGB lighting, for a clean, unwavering look. Inspired by the Raz
 A faithful remake of the judgment graphics of ultralight, a bare-bones StepMania theme by freem. 
 
 **Colorfully Sekai**:
-A familiar girl with long, turquoise twintails approaches. Based on Project Sekai: Colorful Stage! feat. Hatsune Miku.
+A familiar girl with long, turquoise twintails approaches. Based on Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU, known in the West as HATSUNE MIKU: COLORFUL STAGE!.
 
 **Octuple Beat Stories**:
 Based on 8 beat story.
@@ -68,7 +68,7 @@ DanceDanceRevolution™& ©Konami Amusement
 
 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-Project Sekai: Colorful Stage! feat. Hatsune Miku/Hatsune Miku: Colorful Stage!™& ©SEGA, Colorful Palette Inc., Crypton Future Media, INC., and Piapro.
+Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU/HATSUNE MIKU: COLORFUL STAGE!™& ©SEGA, Colorful Palette Inc., Crypton Future Media, INC., and Piapro.
 
 Razer Chroma™& ©Razer Inc.
 
