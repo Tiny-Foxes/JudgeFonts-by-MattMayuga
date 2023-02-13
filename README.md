@@ -63,7 +63,7 @@ Perfect for reaching the ToP!!!!!!!!!!!!!. Based on THE iDOLM@STER Stella Stage.
 
 ## Copyright
 
-Except as noted, all titles, related characters and elements are trademarks of and copyright their respective owners.
+*Except as noted, all titles, associated characters and elements are trademarks and copyrights of their respective owners.*
 
 8 beat Story♪™& ©Chronus V Inc. and GMO Connect Inc.
 
@@ -77,4 +77,4 @@ Razer Chroma™& ©Razer Inc.
 
 Super Smash Bros. Ultimate™& ©Nintendo.
 
-All trademarks are the property of their respective owners, trademark fair use doctrines apply.
+*All other trademarks are the property of their respective owners, trademark fair use doctrines apply.*
