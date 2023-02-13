@@ -46,6 +46,9 @@ Illuminated with RGB lighting, for a clean, unwavering look. Inspired by the Raz
 **ultralight++ (ultralight Plus Plus)**:
 A faithful remake of the judgment graphics of ultralight, a bare-bones StepMania theme by freem. 
 
+**Extremal**:
+A recreation of the DanceDanceRevolution EXTREME judgment graphics from DDR SELECTION, a category in the DanceDanceRevolution series that was first added to DanceDanceRevolution A.
+
 **Colorfully Sekai**:
 A familiar girl with long, turquoise twintails approaches. Based on Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU, known in the West as HATSUNE MIKU: COLORFUL STAGE!.
 
@@ -60,7 +63,7 @@ Perfect for reaching the ToP!!!!!!!!!!!!!. Based on THE iDOLM@STER Stella Stage.
 
 ## Copyright
 
-All trademarks are the property of their respective owners, trademark fair use doctrines apply.  Except as noted, all titles, related characters and elements are trademarks of and copyright their respective owners.
+Except as noted, all titles, related characters and elements are trademarks of and copyright their respective owners.
 
 8 beat Story♪™& ©Chronus V Inc. and GMO Connect Inc.
 
@@ -73,3 +76,5 @@ Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU/HATSUNE MIKU: COLORFUL STAGE!�
 Razer Chroma™& ©Razer Inc.
 
 Super Smash Bros. Ultimate™& ©Nintendo.
+
+All trademarks are the property of their respective owners, trademark fair use doctrines apply.
