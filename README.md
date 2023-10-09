@@ -50,7 +50,10 @@ A faithful remake of the judgment graphics of ultralight, a bare-bones StepMania
 A recreation of the DanceDanceRevolution EXTREME judgment graphics from DDR SELECTION, a category in the DanceDanceRevolution series that was first added to DanceDanceRevolution A.
 
 **Colorfully Sekai**:
-A familiar girl with long, turquoise twintails approaches. Based on Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU, known in the West as HATSUNE MIKU: COLORFUL STAGE!.
+A familiar girl with long, turquoise twintails approaches. Based on the judgment graphics that were used in Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU, known in the West as HATSUNE MIKU: COLORFUL STAGE! before the UI revamp in September 2023.
+
+**Dreams of the Band**:
+Make sure to bring your musical instruments for a poppin' party. Based on BanG Dream! Girls Band Party!.
 
 **Octuple Beat Stories**:
 Based on 8 beat story.
@@ -67,9 +70,13 @@ Perfect for reaching the ToP!!!!!!!!!!!!!. Based on THE iDOLM@STER Stella Stage.
 
 8 beat Story♪™& ©Chronus V Inc. and GMO Connect Inc.
 
+BanG Dream! Girls Band Party!™& ©BanG Dream! Project, Craft Egg Inc., and Bushiroad.
+
 DanceDanceRevolution™& ©Konami Amusement
 
 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
+
+In the Groove™& ©Roxor Games.
 
 Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU/HATSUNE MIKU: COLORFUL STAGE!™& ©SEGA, Colorful Palette Inc., Crypton Future Media, INC., and Piapro.
 
