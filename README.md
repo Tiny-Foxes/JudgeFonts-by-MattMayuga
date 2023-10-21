@@ -55,18 +55,21 @@ A familiar girl with long, turquoise twintails approaches. Based on the judgment
 **Dreams of the Band**:
 Make sure to bring your musical instruments for a poppin' party. Based on BanG Dream! Girls Band Party!.
 
+**Live Miracles**:
+No matter what high school your school idol group attends, the future of a new live dream is yours! Based on Love Live! School Idol Festival 2: MIRACLE LIVE!.
+
 **Octuple Beat Stories**:
 Based on 8 beat story.
 
 **Smashing Ultimate**:
-Get ready to fight, right in the groove! Based on the damage indicator in Super Smash Bros. Ultimate.
+A brawl to the grooves. Based on the damage indicator in Super Smash Bros. Ultimate.
 
 **Stella**:
 Perfect for reaching the ToP!!!!!!!!!!!!!. Based on THE iDOLM@STER Stella Stage. Includes normal (IM@S Stella Stage) and regulation (DDR/ITG) text variants.
 
 ## Copyright
 
-*Except as noted, all titles, associated characters and elements are trademarks and copyrights of their respective owners.*
+*Except as noted, all titles and associated characters/elements are trademarks and copyrights of their respective owners.*
 
 8 beat Story♪™& ©Chronus V Inc. and GMO Connect Inc.
 
@@ -78,7 +81,9 @@ THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
 In the Groove™& ©Roxor Games.
 
-Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU/HATSUNE MIKU: COLORFUL STAGE!™& ©SEGA, Colorful Palette Inc., Crypton Future Media, INC., and Piapro.
+Love Live! School Idol Festival 2: MIRACLE LIVE!™& ©Project Love Live!, Project Love Live! Sunshine!!, Project Love Live! Nijigasaki High School Idol Club, Project Love Live! Superstar!!, and Bushiroad.
+
+Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU/HATSUNE MIKU: COLORFUL STAGE!™& ©Sega, Colorful Palette Inc., Crypton Future Media, INC., and Piapro.
 
 Razer Chroma™& ©Razer Inc.
 
