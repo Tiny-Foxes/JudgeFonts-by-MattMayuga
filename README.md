@@ -49,8 +49,11 @@ A faithful remake of the judgment graphics of ultralight, a bare-bones StepMania
 **Extremal**:
 A recreation of the DanceDanceRevolution EXTREME judgment graphics from DDR SELECTION, a category in the DanceDanceRevolution series that was first added to DanceDanceRevolution A.
 
+**Neo Sekai**:
+New Sekai, new songs. Based on the new judgment graphics used in Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU, known in the West as HATSUNE MIKU: COLORFUL STAGE! since the UI revamp in September 2023.
+
 **Colorfully Sekai**:
-A familiar girl with long, turquoise twintails approaches. Based on the judgment graphics that were used in Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU, known in the West as HATSUNE MIKU: COLORFUL STAGE! before the UI revamp in September 2023.
+Traverse through a Sekai with flying colors. Based on the judgment graphics that were used in Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU before the UI revamp in September 2023.
 
 **Dreams of the Band**:
 Make sure to bring your musical instruments for a poppin' party. Based on BanG Dream! Girls Band Party!.
