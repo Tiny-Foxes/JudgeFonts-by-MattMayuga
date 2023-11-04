@@ -65,7 +65,7 @@ No matter what high school your school idol group attends, the future of a new l
 Based on 8 beat story.
 
 **Smashing Ultimate**:
-A brawl to the grooves. Based on the damage indicator in Super Smash Bros. Ultimate.
+A brawl for the grooves. Based on the damage indicator in Super Smash Bros. Ultimate.
 
 **Stella**:
 Perfect for reaching the ToP!!!!!!!!!!!!!. Based on THE iDOLM@STER Stella Stage. Includes normal (IM@S Stella Stage) and regulation (DDR/ITG) text variants.
