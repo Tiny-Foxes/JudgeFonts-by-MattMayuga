@@ -49,6 +49,12 @@ A faithful remake of the judgment graphics of ultralight, a bare-bones StepMania
 **Extremal**:
 A recreation of the DanceDanceRevolution EXTREME judgment graphics from DDR SELECTION, a category in the DanceDanceRevolution series that was first added to DanceDanceRevolution A.
 
+**Revolution**:
+The things you can do with a revolution of dancing, grooves, and rhythm games!
+
+**Wonder Power**:
+If you're an elephant, you can still enter pipes even with that size and weight. Based on Super Mario Bros. Wonder.
+
 **Neo Sekai**:
 New Sekai, new songs. Based on the new judgment graphics used in Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU, known in the West as HATSUNE MIKU: COLORFUL STAGE! since the UI revamp in September 2023.
 
@@ -89,6 +95,8 @@ Love Live! School Idol Festival 2: MIRACLE LIVE!™& ©Project Love Live!, Proje
 Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU/HATSUNE MIKU: COLORFUL STAGE!™& ©Sega, Colorful Palette Inc., Crypton Future Media, INC., and Piapro.
 
 Razer Chroma™& ©Razer Inc.
+
+Super Mario Bros. Wonder™& ©Nintendo.
 
 Super Smash Bros. Ultimate™& ©Nintendo.
 
