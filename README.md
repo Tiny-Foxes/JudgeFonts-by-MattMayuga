@@ -46,6 +46,9 @@ Illuminated with RGB lighting, for a clean, unwavering look. Inspired by the Raz
 **ultralight++ (ultralight Plus Plus)**:
 A faithful remake of the judgment graphics of ultralight, a bare-bones StepMania theme by freem. 
 
+**South Islander**:
+Are you the fastest thing alive? Inspired by the heads-up display in Sonic the Hedgehog for the Sega Mega Drive.
+
 **Extremal**:
 A recreation of the DanceDanceRevolution EXTREME judgment graphics from DDR SELECTION, a category in the DanceDanceRevolution series that was first added to DanceDanceRevolution A.
 
@@ -84,7 +87,7 @@ Perfect for reaching the ToP!!!!!!!!!!!!!. Based on THE iDOLM@STER Stella Stage.
 
 BanG Dream! Girls Band Party!™& ©BanG Dream! Project, Craft Egg Inc., and Bushiroad.
 
-DanceDanceRevolution™& ©Konami Amusement
+DanceDanceRevolution™& ©Konami Amusement.
 
 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
@@ -95,6 +98,8 @@ Love Live! School Idol Festival 2: MIRACLE LIVE!™& ©Project Love Live!, Proje
 Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU/HATSUNE MIKU: COLORFUL STAGE!™& ©Sega, Colorful Palette Inc., Crypton Future Media, INC., and Piapro.
 
 Razer Chroma™& ©Razer Inc.
+
+Sonic the Hedgehog™& ©Sega.
 
 Super Mario Bros. Wonder™& ©Nintendo.
 
