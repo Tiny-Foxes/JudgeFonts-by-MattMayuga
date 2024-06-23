@@ -64,6 +64,9 @@ New Sekai, new songs. Based on the new judgment graphics used in Project Sekai: 
 **Colorfully Sekai**:
 Traverse through a Sekai with flying colors. Based on the judgment graphics that were used in Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU before the UI revamp in September 2023.
 
+**Sirius Dreams**:
+Want to make your dreams come true just like the girls who want to do so? And you want more than that? Well you can! Based on World Dai Star: Yume no Stellarium. Available in two variants: Standard (Perfect✦/Perfect/Great/from there on) and Regulation (Marvelous/Perfect/Great/from there on).
+
 **Dreams of the Band**:
 Make sure to bring your musical instruments for a poppin' party. Based on BanG Dream! Girls Band Party!.
 
@@ -104,5 +107,7 @@ Sonic the Hedgehog™& ©Sega.
 Super Mario Bros. Wonder™& ©Nintendo.
 
 Super Smash Bros. Ultimate™& ©Nintendo.
+
+World Dai Star™& ©Sirius and Project WDS.
 
 *All other trademarks are the property of their respective owners, trademark fair use doctrines apply.*
